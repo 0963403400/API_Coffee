@@ -1,0 +1,704 @@
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\ApplicationInsights.config
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\CafeAPI.dll.config
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\CafeAPI.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\CafeAPI.pdb
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csc.exe
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csc.exe.config
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csc.rsp
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csi.exe
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csi.exe.config
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csi.rsp
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.AppContext.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Console.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.IO.Compression.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.IO.FileSystem.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.IO.Pipes.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.AccessControl.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Claims.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.ValueTuple.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Xml.XPath.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\vbc.exe
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\vbc.exe.config
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\vbc.rsp
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\VBCSCompiler.exe
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Antlr3.Runtime.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\EntityFramework.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\EntityFramework.SqlServer.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.Web.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.WindowsServer.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.ApplicationInsights.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Newtonsoft.Json.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Net.Http.Formatting.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Helpers.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Http.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Http.WebHost.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Mvc.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Optimization.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Razor.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.Deployment.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.Razor.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\WebGrease.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\EntityFramework.xml
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\EntityFramework.SqlServer.xml
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Newtonsoft.Json.xml
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Net.Http.Formatting.xml
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Helpers.xml
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Http.xml
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Http.WebHost.xml
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Mvc.xml
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Optimization.xml
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Razor.xml
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.xml
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.Deployment.xml
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.Razor.xml
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Antlr3.Runtime.pdb
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.DependencyCollector.xml
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.WindowsServer.xml
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.Web.xml
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\obj\Debug\CafeAPI.csproj.CoreCompileInputs.cache
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\obj\Debug\CafeAPI.csproj.CopyComplete
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\obj\Debug\CafeAPI.dll
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\obj\Debug\CafeAPI.pdb
+E:\Projects\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\obj\Debug\CafeAPI.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\ApplicationInsights.config
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\CafeAPI.dll.config
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\CafeAPI.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\CafeAPI.pdb
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csc.exe
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csc.exe.config
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csc.rsp
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csi.exe
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csi.exe.config
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csi.rsp
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.AppContext.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Console.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\vbc.exe
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\vbc.exe.config
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\vbc.rsp
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Antlr3.Runtime.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\EntityFramework.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.Web.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Newtonsoft.Json.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Helpers.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Http.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Mvc.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Optimization.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Razor.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\WebGrease.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\EntityFramework.xml
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Newtonsoft.Json.xml
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Helpers.xml
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Http.xml
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Mvc.xml
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Optimization.xml
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Razor.xml
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.xml
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Antlr3.Runtime.pdb
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.Web.xml
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\obj\Debug\CafeAPI.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\obj\Debug\CafeAPI.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\obj\Debug\CafeAPI.csproj.CopyComplete
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\obj\Debug\CafeAPI.dll
+C:\Users\MSI\Desktop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\obj\Debug\CafeAPI.pdb
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\ApplicationInsights.config
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\CafeAPI.dll.config
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\CafeAPI.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\CafeAPI.pdb
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csc.exe
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csc.exe.config
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csc.rsp
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csi.exe
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csi.exe.config
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csi.rsp
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.Managed.Core.targets
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.AppContext.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Console.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.IO.Compression.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.IO.FileSystem.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.IO.Pipes.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.AccessControl.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Claims.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Principal.Windows.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.ValueTuple.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Xml.XmlDocument.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Xml.XPath.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\vbc.exe
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\vbc.exe.config
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\vbc.rsp
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\VBCSCompiler.exe
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Antlr3.Runtime.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\EntityFramework.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\EntityFramework.SqlServer.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.DependencyCollector.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.Web.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.WindowsServer.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.ApplicationInsights.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Newtonsoft.Json.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Diagnostics.DiagnosticSource.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Net.Http.Formatting.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Helpers.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Http.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Http.WebHost.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Mvc.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Optimization.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Razor.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.Deployment.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.Razor.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\WebGrease.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\EntityFramework.xml
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\EntityFramework.SqlServer.xml
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Newtonsoft.Json.xml
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Net.Http.Formatting.xml
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Helpers.xml
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Http.xml
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Http.WebHost.xml
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Mvc.xml
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Optimization.xml
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Razor.xml
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.xml
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.Deployment.xml
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.Razor.xml
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Antlr3.Runtime.pdb
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Diagnostics.DiagnosticSource.xml
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.DependencyCollector.xml
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.WindowsServer.xml
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.Web.xml
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\obj\Debug\CafeAPI.csprojAssemblyReference.cache
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\obj\Debug\CafeAPI.csproj.CopyComplete
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\obj\Debug\CafeAPI.dll
+E:\TaiLieuNam5\NAM5_HOCKY2\Client_Server_Technology\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\obj\Debug\CafeAPI.pdb
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\ApplicationInsights.config
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\CafeAPI.dll.config
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\CafeAPI.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\CafeAPI.pdb
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csc.exe
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csc.exe.config
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csc.rsp
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csi.exe
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csi.exe.config
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csi.rsp
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.AppContext.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Console.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\vbc.exe
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\vbc.exe.config
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\vbc.rsp
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Antlr3.Runtime.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\EntityFramework.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.Web.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Newtonsoft.Json.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Helpers.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Http.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Mvc.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Optimization.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Razor.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\WebGrease.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\EntityFramework.xml
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Newtonsoft.Json.xml
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Helpers.xml
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Http.xml
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Mvc.xml
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Optimization.xml
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Razor.xml
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.xml
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Antlr3.Runtime.pdb
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.Web.xml
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\obj\Debug\CafeAPI.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\obj\Debug\CafeAPI.csproj.CopyComplete
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\obj\Debug\CafeAPI.dll
+C:\Users\PC\source\repos\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\obj\Debug\CafeAPI.pdb
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\ApplicationInsights.config
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\CafeAPI.dll.config
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\CafeAPI.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\CafeAPI.pdb
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csc.exe
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csc.exe.config
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csc.rsp
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csi.exe
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csi.exe.config
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csi.rsp
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.AppContext.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Console.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.IO.Compression.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.IO.FileSystem.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.IO.Pipes.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.AccessControl.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Claims.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.ValueTuple.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Xml.XPath.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\vbc.exe
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\vbc.exe.config
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\vbc.rsp
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\VBCSCompiler.exe
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Antlr3.Runtime.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\EntityFramework.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\EntityFramework.SqlServer.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.DependencyCollector.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.Web.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.WindowsServer.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.ApplicationInsights.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Newtonsoft.Json.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Net.Http.Formatting.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Helpers.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Http.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Http.WebHost.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Mvc.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Optimization.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Razor.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.Deployment.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.Razor.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\WebGrease.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\EntityFramework.xml
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\EntityFramework.SqlServer.xml
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Newtonsoft.Json.xml
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Net.Http.Formatting.xml
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Helpers.xml
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Http.xml
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Http.WebHost.xml
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Mvc.xml
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Optimization.xml
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Razor.xml
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.xml
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.Deployment.xml
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.Razor.xml
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Antlr3.Runtime.pdb
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.DependencyCollector.xml
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.WindowsServer.xml
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.Web.xml
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\obj\Debug\CafeAPI.csprojAssemblyReference.cache
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\obj\Debug\CafeAPI.csproj.CopyComplete
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\obj\Debug\CafeAPI.dll
+E:\Phần mềm code By C\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\obj\Debug\CafeAPI.pdb
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\ApplicationInsights.config
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\CafeAPI.dll.config
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\CafeAPI.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\CafeAPI.pdb
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csc.exe
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csc.exe.config
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csc.rsp
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csi.exe
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csi.exe.config
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csi.rsp
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.Managed.Core.targets
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.AppContext.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Collections.Immutable.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Console.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.IO.Compression.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.IO.FileSystem.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.IO.Pipes.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Reflection.Metadata.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.AccessControl.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Claims.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Principal.Windows.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.ValueTuple.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Xml.XmlDocument.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Xml.XPath.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\vbc.exe
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\vbc.exe.config
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\vbc.rsp
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\VBCSCompiler.exe
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\VBCSCompiler.exe.config
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Antlr3.Runtime.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\EntityFramework.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\EntityFramework.SqlServer.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.Agent.Intercept.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.DependencyCollector.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.Web.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.WindowsServer.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.ApplicationInsights.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.Web.Infrastructure.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Newtonsoft.Json.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Diagnostics.DiagnosticSource.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Net.Http.Formatting.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Helpers.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Http.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Http.WebHost.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Mvc.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Optimization.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Razor.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.Deployment.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.Razor.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\WebGrease.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\EntityFramework.xml
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\EntityFramework.SqlServer.xml
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Newtonsoft.Json.xml
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Net.Http.Formatting.xml
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Helpers.xml
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Http.xml
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Http.WebHost.xml
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Mvc.xml
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Optimization.xml
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Razor.xml
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.xml
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.Deployment.xml
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.Razor.xml
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Antlr3.Runtime.pdb
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Diagnostics.DiagnosticSource.xml
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.DependencyCollector.xml
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.WindowsServer.xml
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.Web.xml
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\obj\Debug\CafeAPI.csproj.AssemblyReference.cache
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\obj\Debug\CafeAPI.csproj.CoreCompileInputs.cache
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\obj\Debug\CafeAPI.csproj.CopyComplete
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\obj\Debug\CafeAPI.dll
+F:\HTT\NAM 4 Ki 2\LTTH\LapTrinhTichHop\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\obj\Debug\CafeAPI.pdb
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\ApplicationInsights.config
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\CafeAPI.dll.config
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\CafeAPI.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\CafeAPI.pdb
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csc.exe
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csc.exe.config
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csc.rsp
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csi.exe
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csi.exe.config
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\csi.rsp
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.AppContext.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Console.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.IO.Compression.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.IO.Pipes.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.AccessControl.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Claims.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.ValueTuple.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Xml.XPath.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\vbc.exe
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\vbc.exe.config
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\vbc.rsp
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\VBCSCompiler.exe
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Antlr3.Runtime.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\EntityFramework.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\EntityFramework.SqlServer.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.Web.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.ApplicationInsights.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Newtonsoft.Json.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Diagnostics.DiagnosticSource.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Net.Http.Formatting.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Helpers.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Http.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Http.WebHost.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Mvc.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Optimization.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Razor.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.Deployment.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.Razor.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\WebGrease.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\EntityFramework.xml
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\EntityFramework.SqlServer.xml
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Newtonsoft.Json.xml
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Net.Http.Formatting.xml
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Helpers.xml
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Http.xml
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Http.WebHost.xml
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Mvc.xml
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Optimization.xml
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.Razor.xml
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.xml
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.Deployment.xml
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Web.WebPages.Razor.xml
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Antlr3.Runtime.pdb
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\System.Diagnostics.DiagnosticSource.xml
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.AI.Web.xml
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\obj\Debug\CafeAPI.csproj.AssemblyReference.cache
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\obj\Debug\CafeAPI.csproj.CoreCompileInputs.cache
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\obj\Debug\CafeAPI.csproj.CopyComplete
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\obj\Debug\CafeAPI.dll
+D:\TAI LIEU HOC\Tai Lieu Nam 4\Ki 2 nam 4\LT tích hợp - Thầy khánh\QuanLyQuanCafeAPI\CafeAPI\CafeAPI\obj\Debug\CafeAPI.pdb
